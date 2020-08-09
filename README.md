@@ -1,6 +1,7 @@
-# python-extensions
-Python Must Have Extensions
+# vscode-must-have-extensions
+VS Code must have extensions
 
+# Python Extensions
 * VSCode
     * [Python Snippets](https://marketplace.visualstudio.com/items?itemName=frhtylcn.pythonsnippets) - A snippet pack to make you more productive working with python
     * [Indent-Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) - A simple extension to make indentation more readable
