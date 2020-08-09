@@ -1,4 +1,4 @@
-# vscode-must-have-extensions
+# Visual Studio Code - must have extensions
 VS Code must have extensions
 
 # Python Extensions
