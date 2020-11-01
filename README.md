@@ -12,4 +12,17 @@ VS Code must have extensions
    * [Better Comments](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments) - The Better Comments extension will help you create more human-friendly comments in your code
    * [autoDocstring](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) - Visual Studio Code extension to quickly generate docstrings for python functions.
    * [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) - Correct python indentation in Visual Studio Code. See it on the VSCode Marketplace. Fork the source code on GitHub.
+   
+# Php extensions
+  * Bootstrap 4 (https://marketplace.visualstudio.com/items?itemName=thekalinga.bootstrap4-vscode)
+  * vscode-icons (https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+  * Rainbow Brackets (https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+  * Bookmarks (https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
+  * Eslint (https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+  * Javascript snippets (https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+  * Gitlens (https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+  * Pomodoro Timer (https://marketplace.visualstudio.com/items?itemName=lkytal.pomodoro)
+  * Live Server (https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+  * Dracula (https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+  * Python (https://marketplace.visualstudio.com/items?itemName=ms-python.python)
     
